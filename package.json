@@ -7,11 +7,11 @@
     "lib": "lib"
   },
   "dependencies": {
+    "better-sqlite3": "^5.4.3",
     "esm": "^3.2.25",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
-    "md5": "^2.2.1",
-    "sqlite3": "^4.1.0"
+    "md5": "^2.2.1"
   },
   "devDependencies": {},
   "scripts": {
