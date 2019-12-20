@@ -66,6 +66,7 @@ let blocktime =  60000; // 1 minute blocktime in ms
 
 ### Development
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GabrielLeonte/Glaciary.JS/pulls)
+
 Want to contribute? Great! Start by telling us your wishes!
 
 

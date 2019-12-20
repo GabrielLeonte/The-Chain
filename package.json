@@ -1,7 +1,7 @@
 {
   "name": "thechain",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A simple way to integrate a blockchain in your awesome application!",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -22,7 +22,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["blockchain", "thechain", "backend", "express", "cors", "block", "chain", "database"],
+  "author": "Gabriel Leonte",
+  "license": "MIT"
 }
