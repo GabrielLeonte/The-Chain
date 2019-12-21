@@ -84,14 +84,14 @@ This method will create a new block when it is called, the block data will be th
 const Object = ["test1", "test2"];
 blockchain.push(Object); // No return
 ```
+This method will push data into the block, and the block will be generated with the pushed data.
 
 ### Get last 100 blocks
 ```js
 const last100blocks = blockchain.getLast100();
-console.log(last100blocks); // This will print the last 100 blocks
+console.log(last100blocks); 
 ```
-This method will push data into the block, and the block will be generated with the pushed data.
-
+This method will return the last 100 blocks.
 ### Get x block
 ```js
 const blockNumber = 2; // Block number id
