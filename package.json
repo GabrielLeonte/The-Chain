@@ -1,6 +1,6 @@
 {
   "name": "thechain",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple way to integrate a blockchain in your awesome application!",
   "main": "index.js",
   "directories": {
