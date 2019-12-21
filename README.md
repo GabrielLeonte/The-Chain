@@ -1,8 +1,8 @@
 # The Chain -  A simple way to integrate a blockchain in your awesome application!
 
 [![DeepScan grade](https://deepscan.io/api/teams/5144/projects/8527/branches/103349/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5144&pid=8527&bid=103349)
+![](https://i.imgur.com/3ISskKH.png)
 
-The chain is a simple way to integrate a blockchain inside your Node.JS awesome application.
 
 # Features
 
