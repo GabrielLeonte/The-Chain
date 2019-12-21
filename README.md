@@ -98,14 +98,15 @@ const blockNumber = 2; // Block number id
 const block = blockchain.getBlock(blockNumber);
 console.log(block); // This will print the block data
 ```
+This method will return the block with x number.
 
-### Development
+## Development
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GabrielLeonte/Glaciary.JS/pulls)
 
 Want to contribute? Great! Start by telling us your wishes!
 
 
-### License
+## License
 
 The chain is [MIT](https://github.com/GabrielLeonte/The-Chain/blob/master/LICENSE)
 
