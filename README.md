@@ -108,7 +108,7 @@ Want to contribute? Great! Start by telling us your wishes!
 
 ## License
 
-The chain is [MIT](https://github.com/GabrielLeonte/The-Chain/blob/master/LICENSE)
+The chain is licensed as [MIT](https://github.com/GabrielLeonte/The-Chain/blob/master/LICENSE)
 
 **Free Blockchain Software, DAM Yeah!**
 
